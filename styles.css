@@ -149,3 +149,32 @@ h2 {
 .card-text {
    font-size: 18px;
 }
+
+/*quote section*/
+
+.quote-section {
+   background-color: #E5E7EB;
+}
+
+.quote-container {
+   min-height: 400px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.quote {
+   width: 53%;
+}
+
+blockquote {
+   font-size: 25px;
+   font-weight: 300;
+   color: #1F2937;
+}
+
+figcaption {
+   text-align: right;
+   font-weight: 700;
+   font-size: 16px;
+}
